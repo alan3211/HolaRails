@@ -1,0 +1,2 @@
+module HolaRailsHelper
+end
